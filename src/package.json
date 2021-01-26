@@ -1,0 +1,24 @@
+{
+  "name": "info834",
+  "version": "1.0.0",
+  "description": "Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugdebart/Info834.git"
+  },
+  "author": "Hugo Messager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugdebart/Info834/issues"
+  },
+  "homepage": "https://github.com/hugdebart/Info834#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "middleware": "^1.0.0",
+    "user-model": "^0.2.0"
+  }
+}
